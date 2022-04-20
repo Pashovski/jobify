@@ -15,3 +15,5 @@ const Register = () => {
   return <h1>Register</h1>
 }
 export default Register
+
+//going to add some really cool stuff to this project in the near future
