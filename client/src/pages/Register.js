@@ -40,6 +40,7 @@ const Register = () => {
         </div>
         <button type='submit' className='btn btn-block'>
           Submit
+          {/* will add some styling here */}
         </button>
       </form>
     </Wrapper>
