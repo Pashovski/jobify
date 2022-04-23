@@ -43,6 +43,7 @@ const Register = () => {
           {/* will add some styling here */}
         </button>
       </form>
+      {/* will ad more styling here */}
     </Wrapper>
   )
 }
