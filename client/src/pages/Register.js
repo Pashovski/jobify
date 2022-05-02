@@ -77,3 +77,4 @@ const Register = () => {
 export default Register
 
 //going to add some really cool stuff to this project in the near future
+//even more cool content
